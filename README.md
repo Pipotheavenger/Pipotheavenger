@@ -5,6 +5,7 @@
 
 ---
 
+![visitors](https://komarev.com/ghpvc/?username=Pipotheavenger&label=Profile%20views&color=0e75b6&style=flat)
 ### 👨‍💻 About Me
 🏆 Runner-up in the RoboCup 2023 Worldwide Championship with the @SinfonIA group [Read the new](https://ingenieria.uniandes.edu.co/es/noticias/sinfonia-logra-segundo-lugar-robocup-2023).  
 💻 I am a data & AI engineer, researcher and developer with a strong focus on intelligent systems.  
