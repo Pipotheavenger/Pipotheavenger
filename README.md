@@ -1,16 +1,18 @@
 ## Hi there 👋
+<h1 align="center">Hola 👋, soy Sebastián Valencia</h1>
+<h3 align="center">Científico computacional apasionado por la inteligencia artificial y la sostenibilidad</h3>
 
-<!--
-**Pipotheavenger/Pipotheavenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/TU-USUARIO/TU-REPO/blob/main/banner.jpg" alt="Banner personal" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente trabajo en:
+- 🔬 Doctorado en Ingeniería @ Universidad de los Andes
+- 🧠 Modelos de IA para predicción de curvas de bombas como turbinas
+- 🚀 Ingeniero de datos e IA en Stable-App
+
+💬 Me gusta hablar de: Python · Ciencia de datos · IA · Sostenibilidad · Visualización
+
+📫 ¿Cómo contactarme? → [LinkedIn](https://linkedin.com/in/tu-usuario) · [Email](mailto:tuemail@example.com)
