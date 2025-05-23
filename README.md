@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sebastián Valencia</h1>
-<h3 align="center">PhD Candidate in Engineering @ Universidad de los Andes · M.Sc. in Engineering focused on Computational Science · Passionate about AI, Robotics & Sustainability 🌿</h3>
-
 <p align="center">
-  <img src="htht" width="100%"/>
+  <img src="https://github.com/Pipotheavenger/Pipotheavenger/blob/3538e5bcd933af28a4a1f83c576b6a2d019db94d/header_github.png" width="100%"/>
 </p>
+<h3 align="center">PhD Candidate in Engineering @ Universidad de los Andes · M.Sc. in Engineering focused on Computational Science · Passionate about AI, Robotics & Sustainability 🌿</h3>
 
 ---
 
